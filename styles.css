@@ -3,8 +3,8 @@
 }
 
 .card {
-  width: 18rem;
-  margin-bottom: 10%;
+  width: auto;
+  margin: 5% auto;
 }
 
 .container #demo {
@@ -15,6 +15,11 @@
   color: white;
 }
 
+.text-center {
+	margin: 5% 0;
+}
 
 
-
+.container .col {
+	justify-content: center;
+}
